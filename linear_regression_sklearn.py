@@ -1,4 +1,4 @@
-#This code has been written by HosseinZLF for machine learning class exercies
+#This code has been written by Hosseinzlf for machine learning class exercies
 #University of Paris/Saclay, Feb 2022,
 
 
